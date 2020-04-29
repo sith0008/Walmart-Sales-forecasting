@@ -16,4 +16,4 @@ This is an exploratory data analysis notebook that looks into the trends in the 
 
 ## M5_Forecasting_main
 
-The final notebook contains the code for three remaining phases of the project: feature engineering, model training and prediction. 
+The final notebook contains the code for three remaining phases of the project: feature engineering, model training and prediction. This project treats the time series prediction as a supervised learning problem, using a gradient boosting framework to make the predictions.
